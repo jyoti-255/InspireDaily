@@ -8,4 +8,6 @@ Welcome to the Motivational Quotes API Project! 🎉 This project provides users
 - **Author Info**: Along with the quote, receive the name of the author who said it.
 - **API Integration**: Utilizes a robust API to fetch and display quotes.
 
+## You Can Use this project by Clicking below link
+https://inspiredaily.pythonanywhere.com/
 
